@@ -22,7 +22,7 @@
         },
         {
             "label": "Questions",
-            "altText": "Blog",
+            "altText": "Questions",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
