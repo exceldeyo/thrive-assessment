@@ -39,7 +39,7 @@ sections:
     title:
       type: TitleBlock
       text: Assessment Questions
-      color: text-light
+      color: text-dark
       styles:
         self:
           textAlign: center
