@@ -13,16 +13,7 @@ sections:
       Support role. Below you'll find my responses to all assessment questions,
       along with technical examples demonstrating redirects and serverless
       functions. can you please create me like this paragraph.
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
