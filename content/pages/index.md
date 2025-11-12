@@ -65,6 +65,10 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
+        tagline: >-
+          Talk about how you made your site and why you chose the tools you did.
+          Briefly explain one challenge you experienced in setting up this site
+          and how you overcame it.
       - type: FeaturedItem
         title: Open Source Engineer
         subtitle: Marketing
