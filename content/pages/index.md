@@ -62,7 +62,7 @@ sections:
               - pb-8
               - pr-8
             textAlign: left
-            borderRadius: x-large
+            borderRadius: medium
             flexDirection: row
             justifyContent: center
         tagline: ''
