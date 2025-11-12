@@ -8,11 +8,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      This site contains my completed assessment for the Web Development Tech
-      Support role. Below you'll find my responses to all assessment questions,
-      along with technical examples demonstrating redirects and serverless
-      functions. can you please create me like this paragraph.
+    text: >+
+      This page showcases my completed assessment for the Web Development
+      Technical Support position. It includes detailed responses to all
+      evaluation questions, along with practical demonstrations of key concepts
+      such as URL redirects and serverless function implementations.
+
     actions: []
     media:
       url: /images/main-hero.svg
