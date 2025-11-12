@@ -46,10 +46,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: >-
-          Talk about how you made your site and why you chose the tools you did.
-          Briefly explain one challenge you experienced in setting up this site
-          and how you overcame it.
+        title: ''
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
