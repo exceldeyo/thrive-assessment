@@ -21,6 +21,15 @@
             "type": "Link"
         },
         {
+            "label": "Examples",
+            "altText": "Examples",
+            "url": "",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
             "label": "Questions",
             "altText": "Questions",
             "url": "/questions",
@@ -29,15 +38,6 @@
             "style": "secondary",
             "type": "Link",
             "showIcon": false
-        },
-        {
-            "label": "Examples",
-            "altText": "Examples",
-            "url": "",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
         }
     ],
     "secondaryLinks": [],
