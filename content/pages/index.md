@@ -14,15 +14,6 @@ sections:
       along with technical examples demonstrating redirects and serverless
       functions. can you please create me like this paragraph.
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
