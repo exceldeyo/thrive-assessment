@@ -42,7 +42,7 @@
         "size": "3xl",
         "weight": "normal",
         "decoration": "none",
-        "case": "none",
+        "case": "uppercase",
         "letterSpacing": "normal",
         "type": "ThemeStyleHeading"
     },
